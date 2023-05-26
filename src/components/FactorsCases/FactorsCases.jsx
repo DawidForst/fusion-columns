@@ -1,5 +1,4 @@
 import React  from 'react';
-import css from "../ColumnsProperties/ColumnsProperties.module.css"
 
 
 const FactoryCases = ({formData, handleChange}) => {
